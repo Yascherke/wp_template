@@ -1,0 +1,64 @@
+
+nav {
+    background-color: #3A6988;
+}
+
+.main-content {
+    width:60%;
+    margin-left: 5em;
+}
+
+.rpwwt-post-excerpt {
+    width: 15em;
+    border-bottom: 1px solid gray;
+}
+
+.post {
+    margin-top: 5em;
+    padding-bottom: 5em;
+}
+
+.rpwwt-widget {
+    margin-top: 5em;
+    margin-bottom: 2em;
+}
+li {
+    list-style-type: none;
+}
+
+.form-content p {
+    font-size: 14px;
+}
+
+.form-content a {
+    font-size: 14px;
+}
+
+.footer-content {
+    width: 100%;
+    background-color: #E8EFF4;
+}
+
+.footer-content li {
+    list-style-type: none;
+}
+
+.copyright {
+    width: 100%;
+    height: 50px;
+    background-color: #3A6988;
+}
+
+#sub-footer-p1 {
+    color: white;
+    float: left;
+    padding-top: 1em;
+    padding-left: 1em;
+}
+
+#sub-footer-p2 {
+    color: white;
+    float: right;
+    padding-top: 1em;
+    padding-right: 1em;
+}
